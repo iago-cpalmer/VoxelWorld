@@ -19,7 +19,8 @@ Voxel renderer with chunk loading/ unloading system in Unity using C# with the g
 
 # Current gameplay:
 [![0.1 Gameplay](http://img.youtube.com/vi/fiFy0Muv18w/0.jpg)](http://www.youtube.com/watch?v=fiFy0Muv18w "VoxelWorld 0.1 | Mini-Minecraft copy")
-
+	
+<a href="http://www.youtube.com/watch?v=fiFy0Muv18w" target="_blank" rel="noopener">Link</a>
 # Images:
 ![image](https://user-images.githubusercontent.com/68129919/226719455-82e7e69a-e4be-4e0f-a716-074761a46c24.png)
 
