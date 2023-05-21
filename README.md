@@ -1,5 +1,8 @@
 # VoxelWorld
-Voxel renderer with chunk loading/ unloading system in Unity using C# with the goal of becoming a Mini-Minecraft just-for-fun project.
+Voxel renderer with chunk loading/ unloading system in Unity using C#.
+The main goal was to learn the basics of rendering meshes and loading & unloading chunks applying some simple optimizations.
+Now, the goal is to expand it a but further to learn more advanced optimizations techniques, procedural generation,
+entities... So, in the future it will become a small version of Minecraft.
 
 # Working systems:
 - Voxel render.
