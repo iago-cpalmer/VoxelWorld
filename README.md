@@ -2,7 +2,7 @@
 Voxel renderer with chunk loading/ unloading system in Unity using C#.
 The main goal was to learn the basics of rendering meshes and loading & unloading chunks applying some simple optimizations.
 Now, the goal is to expand it a but further to learn more advanced optimizations techniques, procedural generation,
-entities... So, in the future it will become a small version of Minecraft.
+entities... So, in the future it will become a small and simple Minecraft version.
 
 # Working systems:
 - Voxel render.
